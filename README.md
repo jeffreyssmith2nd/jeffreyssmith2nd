@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jeffrey's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyssmith2nd&count_private=true&show_icons=true&theme=dracula)
+![Jeffrey's Github Stats](https://github-readme-stats.vercel.app/api?username=jeffreyssmith2nd&count_private=true&show_icons=true&theme=onedark)
 <!--
 **jeffreyssmith2nd/jeffreyssmith2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
